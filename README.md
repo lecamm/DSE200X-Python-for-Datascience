@@ -5,6 +5,5 @@ This repository includes information about projects performed within the Python 
  - an html file of the notebook presenting the code and results from the analysis
 
 The following projects are presented in the repository:
-
-Mini Project: Evolution of renewable enrgy generation
-Final Project: Detection of heart disease
+- Mini Project: Evolution of renewable enrgy generation
+- Final Project: Detection of heart disease
